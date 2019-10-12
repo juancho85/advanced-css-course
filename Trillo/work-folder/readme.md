@@ -1,0 +1,2 @@
+# Launching
+* Run npm install
